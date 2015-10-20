@@ -1,0 +1,30 @@
+html, body
+{
+	background-color:black;
+	height: 98%;
+	width: 98%;
+}
+
+
+h3 {color:white;
+	margin-top: 30px;
+	height: 10%;
+	font-family: "Comic Sans";
+	font-size: 20pt;
+	user-select: none;
+	text-align: center;
+}
+
+
+#mySVGCanvas {
+	border: 1px solid #00f;
+	width: 600px;
+	height: 400px;
+	margin: auto;
+	background-color: white;
+
+}
+
+
+
+
